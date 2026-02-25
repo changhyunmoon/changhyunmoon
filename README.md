@@ -12,5 +12,8 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="23"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="23"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" height="23"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="23">
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=changhyunmoon&layout=compact&theme=radial)](https://github.com/anuraghazra/github-readme-stats)
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=changhyunmoon&show_icons=true&theme=radial&height=165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=changhyunmoon&layout=compact&theme=radial&height=165" />
+</p>
