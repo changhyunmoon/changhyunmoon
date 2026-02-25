@@ -1,5 +1,5 @@
 # Changhyun Moon
-<br>
+<p>꾸준히 성장하는 개발자 문창현입니다</p><br>
 
 ## 🛠 Tech Stack
 ### 🖥️ Backend
@@ -10,7 +10,6 @@
 
 ### 🤝 Cooperation & Tools
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="23"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="23"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" height="23"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="23">
-
 <br>
 
 ## ✉️ Contact
