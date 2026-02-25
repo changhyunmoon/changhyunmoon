@@ -1,6 +1,6 @@
 # Changhyun Moon
 <br>
-> **기본에 충실하며, 효율적인 아키텍처를 고민하는 백엔드 개발자 문창현입니다.** > 복잡한 비즈니스 로직을 안정적인 코드로 구현하고, 서비스의 확장성을 고민하는 과정에 집중하고 있습니다.
+
 
 ### 🖥️ Backend
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" height="23"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="23"> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" height="23"> <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" height="23"> <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white" height="23">
