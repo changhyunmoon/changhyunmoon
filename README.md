@@ -87,12 +87,6 @@ Java와 Spring을 중심으로 서비스를 개발하며, 화면 구현부터 �
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)
 
-## Learning
-
-- Spring과 데이터베이스의 트랜잭션 동작 원리
-- HTTP와 웹 애플리케이션의 요청·응답 흐름
-- AWS IAM 역할과 권한 관리
-
 ## Contact
 
 [![Email](https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:jake123456@naver.com)
