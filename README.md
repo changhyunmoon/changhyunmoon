@@ -35,8 +35,10 @@ Java와 Spring을 중심으로 서비스를 개발하며, 화면 구현부터 �
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
 ![Spring Batch](https://img.shields.io/badge/Spring_Batch-6DB33F?style=flat-square&logo=spring&logoColor=white)
-
-REST API · OAuth 2.0 / JWT · Gradle
+![REST API](https://img.shields.io/badge/REST_API-375A7F?style=flat-square)
+![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-34495E?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
 
 ### Data Access & Database
 
@@ -46,8 +48,9 @@ REST API · OAuth 2.0 / JWT · Gradle
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
-
-SQL · Flyway · DBeaver
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white)
 
 ### Frontend
 
@@ -62,16 +65,19 @@ SQL · Flyway · DBeaver
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-
-AWS EC2 / RDS / S3 · GitLab Runner · Apache HTTP Server · Tomcat
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square)
+![AWS RDS](https://img.shields.io/badge/AWS_RDS-527FFF?style=flat-square)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square)
+![GitLab Runner](https://img.shields.io/badge/GitLab_Runner-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Apache HTTP Server](https://img.shields.io/badge/Apache_HTTP_Server-D22128?style=flat-square&logo=apache&logoColor=white)
+![Tomcat](https://img.shields.io/badge/Tomcat-806900?style=flat-square&logo=apachetomcat&logoColor=white)
 
 ### Monitoring
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Loki](https://img.shields.io/badge/Loki-F46800?style=flat-square&logo=grafana&logoColor=white)
-
-Spring Boot Actuator
+![Spring Boot Actuator](https://img.shields.io/badge/Spring_Boot_Actuator-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
 ### Collaboration & Tools
 
